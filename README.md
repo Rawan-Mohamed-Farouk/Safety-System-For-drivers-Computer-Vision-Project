@@ -1,5 +1,4 @@
 # Safety-System-For-drivers-Computer-Vision-Project
-# Safety-System-For-drivers-Computer-Vision-Project
 A computer vision project focused on **driver safety monitoring**, using deep learning to detect unsafe driving behavior (such as drowsiness or distraction) in real time from camera input. This project represents **Phase 3** of the *"AI in Action: From Prediction to Safety"* series.
 ##Project Overview
 
